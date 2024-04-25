@@ -24,3 +24,9 @@ soz = input("so'z kiriting--> ")
 
 print(soz[::-1])
 
+p = 12345678
+
+print(p[1:2:1)
+
+
+
