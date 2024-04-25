@@ -19,3 +19,8 @@ print(p1._asdict())  # Output: {'x': 1, 'y': 2}
 
 p4 = p1._replace(x=10)
 print(p4.x, p4.y)  # Output: 10 2
+
+soz = input("so'z kiriting--> ")
+
+print(soz[::-1])
+
